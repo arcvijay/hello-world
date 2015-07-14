@@ -1,4 +1,5 @@
 # hello-world
 First repository
 
-Hi Everybody this is a hello world repository.
+Hi everybody,
+This is a hello world repository. It has readme file.
